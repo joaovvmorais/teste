@@ -1,0 +1,33 @@
+h1{
+    color: blue;
+}
+h3{
+    color: rgb(172, 3, 3);
+}
+th{
+    color: blueviolet;
+    background-color: aqua;
+}
+table{
+    background-color: brown;
+    position:relative;
+    bottom: 150px;
+    left: 600px;
+    width: 500px;
+    height: 300px;
+    font-size: xx-large;
+}
+td{
+    color: white;
+    background-color: black;
+}
+ul{
+    background-color: chocolate;
+}
+ol{
+    background-color: bisque;
+}
+
+body{
+    background-color: rgb(194, 129, 142);
+}
